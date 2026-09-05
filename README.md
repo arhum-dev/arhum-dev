@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arhum</h1>
+<h1 align="center">Hi 👋, I'm Arhum Imran</h1>
 <h3 align="center">Cyber Security Student | Security Automation & Tooling</h3>
 
 <p align="center">
@@ -64,15 +64,18 @@ I'm a BS Cyber Security student at NUTECH, building hands-on security automation
 
 ---
 
+### 📜 Certifications
+
+- 🕵️ Introduction to Digital Forensics
+- 🔐 Google Cybersecurity Professional Certificate — *Foundations of Cybersecurity (Module 1)*
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=arhum-dev&show_icons=true&theme=radical&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhum-dev&theme=radical" width="48%" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhum-dev&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
