@@ -67,14 +67,14 @@ I'm a BS Cyber Security student at NUTECH, building hands-on security automation
 ### 📜 Certifications
 
 - 🕵️ Introduction to Digital Forensics
-- 🔐 Google Cybersecurity Professional Certificate — *Foundations of Cybersecurity (Module 1)*
+- 🔐 Google Cybersecurity Professional Certificate — *3 modules completed*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arhum-dev&show_icons=true&theme=radical&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=arhum-dev&show_icons=true&theme=radical" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhum-dev&theme=radical" width="48%" />
 </p>
 
