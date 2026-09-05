@@ -1,45 +1,61 @@
 <h1 align="center">Hi 👋, I'm Arhum</h1>
-<h3 align="center">Cyber Security student building offensive & defensive security tools</h3>
+<h3 align="center">Cyber Security Student | Security Automation & Tooling</h3>
 
-- 🔭 I'm currently working on **[Phishing URL Detector](https://github.com/arhum-dev/phishing-url-detector)**
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **[DEMS - Digital Evidence Management System](https://github.com/arhum-dev/Digital-Evidence-Management-System)**
-- 🌱 I'm currently learning **Data Structures & Algorithms, Advanced Penetration Testing**
-- 💬 Ask me about **Bash scripting, Linux security, digital forensics**
-- 📫 How to reach me **f25609016@nutech.edu.pk**
-- 👨‍💻 All of my projects are available at **[github.com/arhum-dev](https://github.com/arhum-dev)**
-- ⚡ Fun fact **I once broke my own Kali VM trying to reset a password**
-
-### 🛠️ Languages and Tools
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/odiak/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Building+security+tools+in+Bash+%26+Python;Kali+Linux+Enthusiast;Learning+one+CVE+at+a+time" alt="Typing SVG" />
 </p>
 
-## 🔐 Featured Projects
+---
 
-- 🛡️ **[File Integrity Checker](https://github.com/arhum-dev/file-integrity-checker)** — Bash tool using SHA-256 hashing to detect new, deleted, and modified files in real time.
-- 🌐 **[Network Recon Tool](https://github.com/arhum-dev/network-recon-tool)** — Bash-based reconnaissance script for scanning and gathering network information.
-- 📊 **[Log Analyzer & Archiver](https://github.com/arhum-dev/log-analyzer-archiver)** — Bash utility for parsing, analyzing, and archiving system logs.
-- 🕵️ **[Digital Evidence Management System](https://github.com/arhum-dev/Digital-Evidence-Management-System)** — Python tool for maintaining evidence integrity and chain of custody in forensic workflows.
-- 🎣 **[Phishing URL Detector](https://github.com/arhum-dev/phishing-url-detector)** — Detects and flags suspicious/phishing URLs.
+I'm a BS Cyber Security student building hands-on security automation tools in Bash and Python. I care about understanding *why* a tool works, not just running it — every script I write is something I've broken and rebuilt until I understood the layer underneath it.
 
-## 📊 GitHub Stats
+**What I focus on:**
+- 🛡️ File & system integrity monitoring (hashing, tamper detection)
+- 🌐 Network reconnaissance & log analysis scripting
+- 🕵️ Digital forensics & evidence chain-of-custody tooling
+- 🎣 Phishing/URL threat detection
+
+**Currently:**
+- 🔭 Working on [Phishing URL Detector](https://github.com/arhum-dev/phishing-url-detector)
+- 🧑‍🤝‍🧑 Open to collaborating on [DEMS - Digital Evidence Management System](https://github.com/arhum-dev/Digital-Evidence-Management-System)
+- 🌱 Learning Data Structures & Algorithms, Advanced Penetration Testing
+- 📫 Reach me: [f25609016@nutech.edu.pk](mailto:f25609016@nutech.edu.pk)
+
+---
+
+### 🛠️ Languages & Tools
+
+**Languages:** 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+
+**Platforms:** 
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+---
+
+### 🔐 Projects
+
+| Project | Description |
+|---|---|
+| 🛡️ [File Integrity Checker](https://github.com/arhum-dev/file-integrity-checker) | SHA-256 based Bash tool to detect new, deleted, and modified files |
+| 🌐 [Network Recon Tool](https://github.com/arhum-dev/network-recon-tool) | Bash reconnaissance script for network information gathering |
+| 📊 [Log Analyzer & Archiver](https://github.com/arhum-dev/log-analyzer-archiver) | Bash utility for parsing, analyzing, and archiving system logs |
+| 🕵️ [Digital Evidence Management System](https://github.com/arhum-dev/Digital-Evidence-Management-System) | Python tool for evidence integrity & chain of custody |
+| 🎣 [Phishing URL Detector](https://github.com/arhum-dev/phishing-url-detector) | Detects and flags suspicious/phishing URLs |
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arhum-dev&show_icons=true&theme=dark" alt="arhum-dev" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhum-dev&theme=dark" alt="arhum-dev" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arhum-dev&show_icons=true&theme=radical&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhum-dev&theme=radical" width="48%" />
 </p>
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=arhum-dev&theme=darkhub" alt="arhum-dev" />
-</p>
+---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=arhum-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arhum-dev" />
-</p>
+### 🔗 Connect
 
-### 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/arhum-dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhum-dev" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/arhum-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=arhum-dev&label=Profile%20Views&color=2ECC71&style=flat-square)
