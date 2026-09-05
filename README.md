@@ -79,6 +79,20 @@ I'm a BS Cyber Security student at NUTECH, building hands-on security automation
 </p>
 
 ---
+---
+
+### 📈 GitHub Analytics
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=arhum-dev&show_icons=true&theme=radical" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=arhum-dev&theme=radical" width="48%" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhum-dev&theme=react-dark" width="97%" />
+</p>
+
+---
 
 ### 🔗 Connect
 
